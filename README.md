@@ -6,6 +6,7 @@
 * Фу
 * [Яндекс](https://www.yandex.ru)
 
-  '''bash
-  ls -la
-  '''
+
+'''bash
+ls -la
+'''
